@@ -38,7 +38,7 @@ ML/Stats    scikit-learn · TensorFlow · statsmodels · PyWavelets
 ## 📌 Currently
 
 - 석사 논문 마무리 중 — *Process Monitoring via ZIMGPD for Serial Multi-Stage Process Data*
-- 포트폴리오 → [HwiJoonJ.github.io/JaeichJ](https://hwijooonj.github.io/JaeichJ)
+- 포트폴리오 → [HwiJoonJ.github.io/JaeichJ](https://hwijunj.github.io/Portfolio)
 
 <br>
 
